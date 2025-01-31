@@ -1,9 +1,7 @@
-# MaterialMaestriaProgramacionDatos
+# Material de programación en analítica de datos
+## Maestria en Analitica y Gerencia de Datos
+## Universidad Sergio Arboleda
 
-esto es un cambios
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96-_VunWq1JsXGB67hI70JrXPw7_mMrPm0nObI-RzwrkiRNiB-EnyooiGcIK-sw8zGP0&usqp=CAU">
 
-# esto es un cambio echo por otra persona
 
-se encuentrán las siguientes tareas:
-
-- tarea 0
