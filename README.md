@@ -4,6 +4,6 @@ esto es un cambios
 
 # esto es un cambio echo por otra persona
 
-se encuentran las siguientes tareas:
+se encuentrán las siguientes tareas:
 
 - tarea 0
