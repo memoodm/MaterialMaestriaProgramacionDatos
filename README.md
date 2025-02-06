@@ -15,3 +15,5 @@
 | Maicol Lopez | https://github.com/Maike94/MGAD-SERGIO-ARBOLEDA-PROGRAMACION.git |
 | Jaime Oswaldo Arias | https://github.com/oswar17/Material_Programacion_USA.git |
 | Andrea González | https://github.com/andgonz94/Talleres-Maestria-Andrea-Gonzalez |
+| Juliana Ibeth Castro Gonzalez | https://github.com/Julibeth17/MAGD/tree/main/MAGD |
+| Juliana Ibeth Castro Gonzalez | https://github.com/danielaruizv1/ProgramacionDatos |
